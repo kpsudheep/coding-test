@@ -1,4 +1,4 @@
-package com.jp.test2;
+package com.jp.code2;
 
 import java.util.Deque;
 import java.util.HashMap;
